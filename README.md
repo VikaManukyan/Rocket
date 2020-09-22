@@ -1,6 +1,6 @@
 # Delivery
 * [Description](#Description)
-* [Rocket team](#Rocket)
+* [Our team - :rocket:](#Rocket)
 
 # Description
 
@@ -9,9 +9,9 @@ Each courier will have his/her own profile, through which he/she will receive a 
 
 # Rocket :rocket:
 
-Our team members are
-* [Marieta Harutyunyan](https://github.com/marietachabbie)
-* [Ani Khachatryan](https://github.com/ani-khachatryan)
-* [Anomeh Valijan](https://github.com/anome-vj)
-* [Astghik Yeranosyan](https://github.com/AstghikY)
-* [Vika Manukyan](https://github.com/Vika-Manukyan)
+* Our team members:
+                   * [Marieta Harutyunyan](https://github.com/marietachabbie)
+                   * [Ani Khachatryan](https://github.com/ani-khachatryan)
+                   * [Anomeh Valijan](https://github.com/anome-vj)
+                   * [Astghik Yeranosyan](https://github.com/AstghikY)
+                   * [Vika Manukyan](https://github.com/Vika-Manukyan)
