@@ -1,6 +1,5 @@
 # Delivery
 * [Description](#Description)
-* [Team](#Team)
 
 # Description
 
