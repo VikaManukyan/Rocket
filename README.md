@@ -9,4 +9,4 @@ Each courier will have his/her own profile, through which he/she will receive a 
 
 #Team
 
-![alt text](https://ca.slack-edge.com/T01816HFZQF-U018YAL53RP-4eef216ac621-512){height=400px width=500px}
+![alt text](https://ca.slack-edge.com/T01816HFZQF-U018YAL53RP-4eef216ac621-512 | width=100)
