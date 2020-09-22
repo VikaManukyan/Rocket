@@ -8,5 +8,4 @@ Our project provides the delivery system of an online market. The courier will b
 Each courier will have his/her own profile, through which he/she will receive a notice of the order.
 
 #Team
-
-![alt text](https://ca.slack-edge.com/T01816HFZQF-U018YAL53RP-4eef216ac621-512?cropZoom=50,50))![alt text](https://ca.slack-edge.com/T01816HFZQF-U01853K1BEK-8a78d35efa90-512)
+[github]https://github.com/marietachabbie
