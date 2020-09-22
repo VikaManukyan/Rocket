@@ -8,4 +8,5 @@ Our project provides the delivery system of an online market. The courier will b
 Each courier will have his/her own profile, through which he/she will receive a notice of the order.
 
 #Team
+![GitHub Logo](https://avatars1.githubusercontent.com/u/54360673?s=400&v=4)
 [github](https://github.com/marietachabbie)
